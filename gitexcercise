@@ -13,3 +13,7 @@ git push -u origin master
 …or push an existing repository from the command line
 git remote add origin https://github.com/agmatyja/gitexcercise.git
 git push -u origin master
+
+git status shows files changes (last commit)
+
+git branch shows structure of branches
